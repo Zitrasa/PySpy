@@ -15,3 +15,6 @@ This DLL can be used to find Python dictionaries with given keyword (one-word st
 After inputing your keyword, this code write a list of results, which consist of several lines of following structure:
   1. Dictionary adress in process memory.
   2. Output of python **str( )** function, that was used on a value, assigned for requested key.
+
+## How to compile?
+Just add all this files in VS project and compile it as DLL.
