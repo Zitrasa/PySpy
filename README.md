@@ -1,5 +1,5 @@
 # PySpy
-DLL, intended for injection in processes using Python 2.7 **C API**.
+## C API Python 2.7 Dictionary viewer
 
 ## Note
 * Only compatible with Windows. Tested on Windows 10.
